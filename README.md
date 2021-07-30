@@ -8,7 +8,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(2).pdf" style="text-decoration:none;">NetVLAD: CNN architecture for weakly supervised place recognition</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(3).pdf" style="text-decoration:none;">NetVLAD: CNN architecture for weakly supervised place recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(3).pdf" style="text-decoration:none;">Place Recognition: An Overview of Vision Perspective</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(4).pdf" style="text-decoration:none;">Real-Time Visual Place Recognition for Personal Localization on a Mobile Device</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(5).pdf" style="text-decoration:none;">Deep Learning Features at Scale for Visual Place Recognition</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(6).pdf" style="text-decoration:none;">Efficient Decentralized Visual Place Recognition From Full-Image Descriptors</a></li>
@@ -89,7 +89,8 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(51).pdf" style="text-decoration:none;">ImageNet Classification with Deep Convolutional Neural Networks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(52).pdf" style="text-decoration:none;">Lightweight Unsupervised Deep Loop Closure</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(53).pdf" style="text-decoration:none;">A Holistic Visual Place Recognition Approach using Lightweight CNNs for Severe ViewPoint and Appearance Changes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(53).pdf" style="text-decoration:none;">A Survey on Deep Visual Place
+Recognition</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Place-Recognition-Papers/blob/master/v(54).pdf" style="text-decoration:none;">24/7 place recognition by view synthesis </a></li>
 
